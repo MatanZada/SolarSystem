@@ -576,11 +576,11 @@ var _jupiterJpg = require("../img/jupiter.jpg");
 var _jupiterJpgDefault = parcelHelpers.interopDefault(_jupiterJpg);
 var _saturnJpg = require("../img/saturn.jpg");
 var _saturnJpgDefault = parcelHelpers.interopDefault(_saturnJpg);
-var _saturnRingPng = require("../img/saturn ring.png");
+var _saturnRingPng = require("../img/saturnRing.png");
 var _saturnRingPngDefault = parcelHelpers.interopDefault(_saturnRingPng);
 var _uranusJpg = require("../img/uranus.jpg");
 var _uranusJpgDefault = parcelHelpers.interopDefault(_uranusJpg);
-var _uranusRingPng = require("../img/uranus ring.png");
+var _uranusRingPng = require("../img/uranusRing.png");
 var _uranusRingPngDefault = parcelHelpers.interopDefault(_uranusRingPng);
 var _neptuneJpg = require("../img/neptune.jpg");
 var _neptuneJpgDefault = parcelHelpers.interopDefault(_neptuneJpg);
@@ -688,7 +688,7 @@ window.addEventListener("resize", ()=>{
     renderer.setSize(window.innerWidth, window.innerHeight);
 });
 
-},{"three":"ktPTu","three/examples/jsm/controls/OrbitControls.js":"7mqRv","../img/stars.jpg":"bCNGa","../img/sun.jpg":"elDPU","../img/mercury.jpg":"94xxb","../img/venus.jpg":"6jlW9","../img/earth.jpg":"2Mrmt","../img/mars.jpg":"48hZ0","../img/jupiter.jpg":"7HR7F","../img/saturn.jpg":"ioUkS","../img/saturn ring.png":"9WfEF","../img/uranus.jpg":"1ecId","../img/uranus ring.png":"gIkWT","../img/neptune.jpg":"3Fw4b","../img/pluto.jpg":"4l1X2","@parcel/transformer-js/src/esmodule-helpers.js":"bYTlM"}],"ktPTu":[function(require,module,exports) {
+},{"three":"ktPTu","three/examples/jsm/controls/OrbitControls.js":"7mqRv","../img/stars.jpg":"bCNGa","../img/sun.jpg":"elDPU","../img/mercury.jpg":"94xxb","../img/venus.jpg":"6jlW9","../img/earth.jpg":"2Mrmt","../img/mars.jpg":"48hZ0","../img/jupiter.jpg":"7HR7F","../img/saturn.jpg":"ioUkS","../img/uranus.jpg":"1ecId","../img/neptune.jpg":"3Fw4b","../img/pluto.jpg":"4l1X2","@parcel/transformer-js/src/esmodule-helpers.js":"bYTlM","../img/saturnRing.png":"32iJe","../img/uranusRing.png":"1sgQZ"}],"ktPTu":[function(require,module,exports) {
 /**
  * @license
  * Copyright 2010-2021 Three.js Authors
@@ -30784,21 +30784,21 @@ module.exports = require("61d770c4a32f6127").getBundleURL("joNBb") + "jupiter.97
 },{"61d770c4a32f6127":"dxq9N"}],"ioUkS":[function(require,module,exports) {
 module.exports = require("ceab3079abbbf18e").getBundleURL("joNBb") + "saturn.f0999ace.jpg" + "?" + Date.now();
 
-},{"ceab3079abbbf18e":"dxq9N"}],"9WfEF":[function(require,module,exports) {
-module.exports = require("f5c490406f680b82").getBundleURL("joNBb") + "saturn ring.cc9fe67e.png" + "?" + Date.now();
-
-},{"f5c490406f680b82":"dxq9N"}],"1ecId":[function(require,module,exports) {
+},{"ceab3079abbbf18e":"dxq9N"}],"1ecId":[function(require,module,exports) {
 module.exports = require("56fb8ace3eb29765").getBundleURL("joNBb") + "uranus.03f8200b.jpg" + "?" + Date.now();
 
-},{"56fb8ace3eb29765":"dxq9N"}],"gIkWT":[function(require,module,exports) {
-module.exports = require("ea7f8bc1c3d2d91").getBundleURL("joNBb") + "uranus ring.bb04d0b4.png" + "?" + Date.now();
-
-},{"ea7f8bc1c3d2d91":"dxq9N"}],"3Fw4b":[function(require,module,exports) {
+},{"56fb8ace3eb29765":"dxq9N"}],"3Fw4b":[function(require,module,exports) {
 module.exports = require("b68778b6b3ff486b").getBundleURL("joNBb") + "neptune.69b29d20.jpg" + "?" + Date.now();
 
 },{"b68778b6b3ff486b":"dxq9N"}],"4l1X2":[function(require,module,exports) {
 module.exports = require("978f5734424e012b").getBundleURL("joNBb") + "pluto.cc2d7afe.jpg" + "?" + Date.now();
 
-},{"978f5734424e012b":"dxq9N"}]},["3YV0q","dqGdf"], "dqGdf", "parcelRequire7930")
+},{"978f5734424e012b":"dxq9N"}],"32iJe":[function(require,module,exports) {
+module.exports = require("4891b6c8053c143f").getBundleURL("joNBb") + "saturnRing.3dfb9322.png" + "?" + Date.now();
+
+},{"4891b6c8053c143f":"dxq9N"}],"1sgQZ":[function(require,module,exports) {
+module.exports = require("53ca1bf1474f1b1a").getBundleURL("joNBb") + "uranusRing.e6ed2298.png" + "?" + Date.now();
+
+},{"53ca1bf1474f1b1a":"dxq9N"}]},["3YV0q","dqGdf"], "dqGdf", "parcelRequire7930")
 
 //# sourceMappingURL=index.e5e1302f.js.map

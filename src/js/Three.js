@@ -9,9 +9,9 @@ import earthTexture from "../img/earth.jpg";
 import marsTexture from "../img/mars.jpg";
 import jupiterTexture from "../img/jupiter.jpg";
 import saturnTexture from "../img/saturn.jpg";
-import saturnRingTexture from "../img/saturn ring.png";
+import saturnRingTexture from "../img/saturnRing.png";
 import uranusTexture from "../img/uranus.jpg";
-import uranusRingTexture from "../img/uranus ring.png";
+import uranusRingTexture from "../img/uranusRing.png";
 import neptuneTexture from "../img/neptune.jpg";
 import plutoTexture from "../img/pluto.jpg";
 
